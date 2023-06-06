@@ -19,11 +19,6 @@ We can experiment with various machine learning algorithms such as logistic regr
 ## Model Evaluation
 Once the model is trained, we need to evaluate its performance using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score. We can also employ techniques like cross-validation to obtain more reliable performance estimates.
 
-## Hyperparameter Tuning
-To further optimize the model, we can perform hyperparameter tuning. This involves systematically searching for the best combination of hyperparameters that maximize the model's performance.
-
-## Results and Discussion
-After evaluating the model and fine-tuning its hyperparameters, we can discuss the results, including the accuracy achieved and the most significant features contributing to the predictions. We can also compare the performance of different models and highlight any limitations or potential areas of improvement.
 
 ## Conclusion
 Breast cancer prediction using machine learning offers a promising approach for early detection and improved patient outcomes. By leveraging the power of ML algorithms, we can assist medical professionals in making accurate predictions, aiding in diagnosis and treatment decisions.
