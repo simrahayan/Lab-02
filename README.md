@@ -28,6 +28,7 @@ After evaluating the model and fine-tuning its hyperparameters, we can discuss t
 ## Conclusion
 Breast cancer prediction using machine learning offers a promising approach for early detection and improved patient outcomes. By leveraging the power of ML algorithms, we can assist medical professionals in making accurate predictions, aiding in diagnosis and treatment decisions.
 
----
 
-This Markdown document provides a structure for your breast cancer prediction project, highlighting key steps such as data preprocessing, feature selection, model selection, evaluation, and conclusion. You can further expand on each section with detailed explanations, code snippets, visualizations, and results to present a comprehensive analysis for your exam.
+STEPS-
+![Alt Text](1.png)
+![Alt Text](2.png)
