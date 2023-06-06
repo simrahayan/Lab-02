@@ -30,5 +30,5 @@ Breast cancer prediction using machine learning offers a promising approach for 
 
 
 STEPS-
-![Alt Text](1.png)
-![Alt Text](2.png)
+![Step 1](images/1.png)
+![step 2](images/2.png)
